@@ -1,8 +1,8 @@
 # Music-Recommendation-System
 
-The goal of this notebook is to build a simple recommender system: focus on music recommendations, and  use a simple algorithm to predict which items users might like, that is called ALS, alternating least squares.
+The goal of this project is to build a simple recommender system: focus on music recommendations, and  use a simple algorithm to predict which items users might like, that is called ALS, alternating least squares.
 
-The Goals of this notebook:
+The Goals of this project:
 Revisit (or learn) recommender algorithms
 Understand the idea of Matrix Factorization and the ALS algorithm
 Build a simple model for a real usecase: music recommender system
